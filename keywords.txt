@@ -1,0 +1,5 @@
+BTimer	KEYWORD1
+run	KEYWORD2
+setInterval KEYWORD2
+setTimeout  KEYWORD2
+setCounter  KEYWORD2
