@@ -36,7 +36,7 @@ void setup() {
 }
 
 void loop() {
-  boolean i = timer.run(); // will tick every one second
+  boolean i = timer1.run(); // will tick every one second
   }
 ```
 
@@ -54,7 +54,7 @@ void setup() {
 }
 
 void loop() {
-  boolean i = timer.run(); // will tick every one second 10 times in a row and then will be stopped
+  boolean i = timer1.run(); // will tick every one second 10 times in a row and then will be stopped
   }
 ```
 
